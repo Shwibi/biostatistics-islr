@@ -24,7 +24,7 @@ ISLR does not include matrices, and they aren't needed for Simple Linear Regress
 
 Another great source for Linear Algebra are the Lectures on Linear algebra by Gilbert Strang in MIT OCW 18.06 which can be found [here](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/).
 
-# Skills Used
+## Skills Used
 
 - `R`
   - `tidyverse`
@@ -38,7 +38,7 @@ Another great source for Linear Algebra are the Lectures on Linear algebra by Gi
 - Git
 - Obsidian, for notes
 
-# Background
+## Background
 
 I am a third-year MBBS student transitioning into Computational Biology and Biostatistics. This repository includes my progress in Biostatistics using ISLR, not Linear Algebra or animations and visuals.
 I will add those projects as well, in due time.
