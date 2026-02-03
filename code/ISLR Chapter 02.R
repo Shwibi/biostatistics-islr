@@ -1,5 +1,5 @@
 library(tidyverse)
-college <- read_csv("R/College.csv")
+college <- read_csv("data/College.csv")
 
 # Move first column to turn them into row names
 college <- college %>% column_to_rownames(var = "University")
@@ -49,8 +49,7 @@ college %>%
 
 # ============================================
 
-library(tidyverse)
-auto <- read_table("R/Auto.data", na="?")
+auto <- read_table("data/Auto.data", na="?")
 View(auto)
 
 auto_clean <- auto %>% 
