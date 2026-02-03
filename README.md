@@ -5,7 +5,7 @@
 ## What is ISLR
 
 ISLR is _Introduction to Statistical Learning_ (with R) meant as an introduction to statistical methods while using the programming language `R` to demonstrate problems and solutions.
-Visit the official website [here](https://www.statlearning.com/).
+Visit the official website - [StatLearning](https://www.statlearning.com/).
 
 ## What is this Repository
 
@@ -20,9 +20,9 @@ This includes a very basic manipulation of data in `R`. Some of the functions ha
 
 ### ISLR Chapter 03: Linear Regression
 
-ISLR does not include matrices, and they aren't needed for Simple Linear Regression with 2 predictors. However, knowing the geometry early creates a path that makes it easy to understand more advanced statistical models, and thus, before moving on to Multiple Linear Regression, I have completed 3Blue1Brown's Essence of Linear Algebra series on YouTube ([here](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab))
+ISLR does not include matrices, and they aren't needed for Simple Linear Regression with 2 predictors. However, knowing the geometry early creates a path that makes it easy to understand more advanced statistical models, and thus, before moving on to Multiple Linear Regression, I have completed 3Blue1Brown's Essence of Linear Algebra series on YouTube - ([Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab))
 
-Another great source for Linear Algebra are the Lectures on Linear algebra by Gilbert Strang in MIT OCW 18.06 which can be found [here](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/).
+Another great source for Linear Algebra are the Lectures on Linear algebra by Gilbert Strang in MIT OCW 18.06 which can be found at [MIT OCW 18.06 Spring 2010](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/).
 
 ## Skills Used
 
