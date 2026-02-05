@@ -24,6 +24,9 @@ ISLR does not include matrices, and they aren't needed for Simple Linear Regress
 
 Another great source for Linear Algebra are the Lectures on Linear algebra by Gilbert Strang in MIT OCW 18.06 which can be found at [MIT OCW 18.06 Spring 2010](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/).
 
+**2026-02-05**
+Completed Labs for Chapter 03, Exercises are yet to be done. Labs for `Boston` have been implemented in both older and newer styles, while for `Carseats` only the newer / modern methods as given at [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/03-linear-regression.html)
+
 ## Skills Used
 
 - `R`
