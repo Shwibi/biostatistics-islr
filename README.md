@@ -27,6 +27,12 @@ Another great source for Linear Algebra are the Lectures on Linear algebra by Gi
 **2026-02-05**
 Completed Labs for Chapter 03, Exercises are yet to be done. Labs for `Boston` have been implemented in both older and newer styles, while for `Carseats` only the newer / modern methods as given at [ISLR tidymodels labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/03-linear-regression.html)
 
+## Notes
+
+**2026-02-06**
+Looking into switching to ESL instead of ISLR, since ISLR doesn't dive deeper into the math or explanation in certain areas. ESL allegedly is more rigorous and explains the math as well.
+ESL is [_Elements of Statistical Learning_ by Trevor Hastie, Robert Tibshirani, Jerome Friedman.](https://hastie.su.domains/ElemStatLearn/)
+
 ## Skills Used
 
 - `R`
